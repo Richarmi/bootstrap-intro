@@ -1,0 +1,23 @@
+=========================================
+w02d03
+Lesson 2
+
+Instructor: Alex White
+
+Markdown: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap
+
+Zoom: https://generalassembly.zoom.us/j/219820979
+
+
+ #bootstrap #css #js #css-library
+ =========================================
+
+**Activity**
+
+
+- First **create a branch** called **bootrap** so you don't mess up your beautiful work!
+- Add bootstrap using a CDN
+- Play around with adding Bootstrap classes to elements in your page
+- Add a nav bar or some other bootstrap element!
+- Until the end of the lesson
+- Screenshot your page and share it on Slack! (Command Shift 4 to make a screenshot)
